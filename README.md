@@ -37,13 +37,20 @@ We are building a developer hub featuring:
 Follow us to stay updated.
 🌐 Useful Links
 
-Website: https://lyfmail.com
-PWA: https://app.lyfmail.com
-Docs: https://docs.lyfmail.com
-YouTube: https://m.youtube.com/channel/UCurymhWrl2nkvv31uJMuc0g
-Twitter / X: https://x.com/lyfmailcom
-LinkedIn: https://in.linkedin.com/in/lyfmailcom
-Facebook: https://www.facebook.com/thelyfmail
+Website: https://lyfmail.com 
+
+PWA: https://app.lyfmail.com 
+
+Docs: https://docs.lyfmail.com 
+
+YouTube: https://m.youtube.com/channel/UCurymhWrl2nkvv31uJMuc0g 
+
+Twitter / X: https://x.com/lyfmailcom 
+
+LinkedIn: https://in.linkedin.com/in/lyfmailcom 
+
+Facebook: https://www.facebook.com/thelyfmail 
+
 
 ❤️ Our Vision
 
