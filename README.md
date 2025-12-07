@@ -1,16 +1,46 @@
-## Hi there 👋
+👋 Welcome to LYF Mail
 
-<!--
-**lyfmail/lyfmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LYF Mail delivers curated, high-value insights across:
 
-Here are some ideas to get you started:
+🧬 Health & Wellness
+💼 Business & Investment
+🚀 Career & Skills
+🧠 Self-Help & Personal Growth
+🎨 Creativity & Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We build tools, articles, and email streams designed to accelerate personal and professional growth — all packaged inside our Progressive Web App (PWA).
+
+📱 LYF Mail PWA (Open Source)
+
+Our official PWA is optimized for:
+
+* Fast Loading
+* Offline Usage
+* Installability
+* Category-based Email Subscriptions
+* SEO-optimized Metadata
+* Structured Data (MobileApplication schema)
+
+👉 PWA Repo Coming Soon
+(Stay tuned!)
+
+🧩 Developer Ecosystem (Coming Soon)
+
+We are building a developer hub featuring:
+
+* PWA Templates
+* API Documentation
+* Cloudflare Setup Guides
+* CMS Integration
+* Subdomain Architecture Blueprints
+
+Follow us to stay updated.
+🌐 Useful Links
+
+Website: https://lyfmail.com
+PWA: https://app.lyfmail.com
+Docs: https://docs.lyfmail.com
+YouTube: https://m.youtube.com/channel/UCurymhWrl2nkvv31uJMuc0g
+Twitter / X: https://x.com/lyfmailcom
+LinkedIn: https://in.linkedin.com/in/lyfmailcom
+Facebook: https://www.facebook.com/thelyfmail
