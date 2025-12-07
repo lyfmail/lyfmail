@@ -34,7 +34,8 @@ We are building a developer hub featuring:
 * CMS Integration
 * Subdomain Architecture Blueprints
 
-Follow us to stay updated.
+Follow us to stay updated. 
+
 🌐 Useful Links
 
 Website: https://lyfmail.com 
