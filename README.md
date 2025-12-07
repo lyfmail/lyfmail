@@ -44,3 +44,7 @@ YouTube: https://m.youtube.com/channel/UCurymhWrl2nkvv31uJMuc0g
 Twitter / X: https://x.com/lyfmailcom
 LinkedIn: https://in.linkedin.com/in/lyfmailcom
 Facebook: https://www.facebook.com/thelyfmail
+
+❤️ Our Vision
+
+To make learning, personal growth, and progress easier, faster, and more enjoyable — with beautifully-crafted digital tools anyone can use.
