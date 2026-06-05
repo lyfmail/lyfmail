@@ -1,58 +1,56 @@
-👋 Welcome to LYF Mail
+# 👋 LYF Mail — Privacy-First Digital Wellness
 
-LYF Mail delivers curated, high-value insights across:
+**Every Choice Shapes Tomorrow**
 
-🧬 Health & Wellness
-💼 Business & Investment
-🚀 Career & Skills
-🧠 Self-Help & Personal Growth
-🎨 Creativity & Learning
+Founder of [LYF Mail](https://lyfmail.com) — a privacy-first digital wellness platform based in **Varanasi, Uttar Pradesh, India**. Since 2020, we have delivered free curated newsletters and open-source tools to 50,000+ subscribers across India.
 
-We build tools, articles, and email streams designed to accelerate personal and professional growth — all packaged inside our Progressive Web App (PWA).
+This is the personal GitHub of the founder. Our organization and all open-source projects live at **[github.com/lyfmail-official](https://github.com/lyfmail-official)**.
 
-📱 LYF Mail PWA (Open Source)
+---
 
-Our official PWA is optimized for:
+## 🏠 Main Website
+**[https://lyfmail.com](https://lyfmail.com)** — Free weekly newsletters for health, wealth, career, creativity & mindfulness
 
-* Fast Loading
-* Offline Usage
-* Installability
-* Category-based Email Subscriptions
-* SEO-optimized Metadata
-* Structured Data (MobileApplication schema)
+## 📚 Pillar Guides
+- [Health & Wellness Guide](https://lyfmail.com/health-wellness-guide)
+- [Personal Finance Guide](https://lyfmail.com/personal-finance-guide)
+- [Career Development Guide](https://lyfmail.com/career-development-guide)
+- [Creativity Resources](https://lyfmail.com/creativity-resources)
+- [Mindfulness Practices](https://lyfmail.com/mindfulness-practices)
 
-👉 PWA Repo Coming Soon
-(Stay tuned!)
+## 🛠️ Open-Source Tools We Build
 
-🧩 Developer Ecosystem (Coming Soon)
+| Tool | What It Does | Live App |
+|------|--------------|----------|
+| **TrustLens** | Privacy-first misinformation detection. Check credibility before you share. | [trustlens.lyfmail.com](https://trustlens.lyfmail.com) |
+| **LYF SOS** | Offline emergency safety app for Android. Built for India. | [lyfsos.lyfmail.com](https://lyfsos.lyfmail.com) |
+| **PDPR** | Public Dark Pattern Registry. Document deceptive UX ethically. | [pdpr.lyfmail.com](https://pdpr.lyfmail.com) |
+| **Ebb** | Privacy-first period tracker with homomorphic encryption. | [ebb.lyfmail.com](https://ebb.lyfmail.com) |
+| **Together** | Community mental health support through therapeutic silence. | [together.lyfmail.com](https://together.lyfmail.com) |
+| **Rewriter** | AI-powered narrative therapy and health content writing assistant. | [lyfmail-official.github.io/rewriter](https://lyfmail-official.github.io/rewriter/) |
+| **Offload** | Stress relief with binaural beats and dream journal. Zero cloud storage. | [lyfmail-official.github.io/offload](https://lyfmail-official.github.io/offload/) |
+| **Signals** | Privacy-first analytics. Human vs. bot detection without cookies. | [signals.lyfmail.com](https://signals.lyfmail.com) |
 
-We are building a developer hub featuring:
+## 📰 Newsletters
+- [Health & Wellness](https://health.signup.lyfmail.com)
+- [Personal Finance](https://financing.signup.lyfmail.com)
+- [Career Development](https://career.signup.lyfmail.com)
+- [Creativity & Innovation](https://creativity.signup.lyfmail.com)
+- [Personal Development](https://intuition.signup.lyfmail.com)
 
-* PWA Templates
-* API Documentation
-* Cloudflare Setup Guides
-* CMS Integration
-* Subdomain Architecture Blueprints
+## 📖 Documentation
+[docs.lyfmail.com](https://docs.lyfmail.com) — Technical guides, API references, and contribution guidelines
 
-Follow us to stay updated. 
+## 🤝 Support
+- [support.lyfmail.com](https://support.lyfmail.com)
+- contact@lyfmail.com
 
-🌐 Useful Links
+## 🌐 Social
+- [YouTube](https://m.youtube.com/channel/UCurymhWrl2nkvv31uJMuc0g)
+- [X / Twitter](https://x.com/lyfmailcom)
+- [LinkedIn](https://in.linkedin.com/in/jaykc)
+- [Facebook](https://www.facebook.com/thelyfmail)
 
-Website: https://lyfmail.com 
+---
 
-PWA: https://app.lyfmail.com 
-
-Docs: https://docs.lyfmail.com 
-
-YouTube: https://m.youtube.com/channel/UCurymhWrl2nkvv31uJMuc0g 
-
-Twitter / X: https://x.com/lyfmailcom 
-
-LinkedIn: https://in.linkedin.com/in/lyfmailcom 
-
-Facebook: https://www.facebook.com/thelyfmail 
-
-
-❤️ Our Vision
-
-To make learning, personal growth, and progress easier, faster, and more enjoyable — with beautifully-crafted digital tools anyone can use.
+**Founded:** 2020 · **Location:** Varanasi, Uttar Pradesh, India · **Organization:** [github.com/lyfmail-official](https://github.com/lyfmail-official)
