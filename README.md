@@ -17,9 +17,9 @@ I am the founder of **[LYF Mail](https://lyfmail.com)** — a privacy-first digi
 | Role | Organization | Period | Focus |
 |------|-------------|--------|-------|
 | **Founder** | [LYF Mail](https://lyfmail.com) | 2020 – Present | Privacy-first digital wellness platform. Newsletters, PWAs & open-source tools for health, wealth, career & mental wellbeing. |
-| **Former Lecturer, Computer Science** | Govt. Polytechnic College, Waidhan, M.P. | Present | Teaching core CS, programming fundamentals, and practical software engineering. |
-| **Former President** | Digital Edge Education Society | Past | Led digital literacy and tech education initiatives for underserved communities. |
-| **Former Trainee Computer Engineer** | Renu Power Division, Hindalco | Past | Industrial computing, systems engineering, and process automation. |
+| **Former Lecturer, Computer Science** | Govt. Polytechnic College, Waidhan, M.P. | 10 Oct 2006 – 31 Jan 2010 | Teaching core CS, programming fundamentals, and practical software engineering. |
+| **Former President** | Digital Edge Education Society | 24 Dec 2014 – 23 Dec 2019 | Led digital literacy and tech education initiatives for underserved communities. |
+| **Former Trainee Computer Programmer/Engineer** | Renusagar Power Division, Hindalco | 5 Feb 2002 – 5 Aug 2006 | Industrial computing, systems engineering, and process automation. |
 
 ---
 
